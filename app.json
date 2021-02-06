@@ -1,0 +1,12 @@
+{
+  "name": "laShop",
+  "displayName": "laShop",
+  "expo": {
+    "name": "laShop",
+    "slug": "laShop",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
